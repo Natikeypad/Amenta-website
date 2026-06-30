@@ -27,17 +27,7 @@ This app needs a **Node.js server** and a **MySQL database**. GitHub stores the 
 
 ### 1. Push code to GitHub
 
-1. Create a new **public** repository at [github.com/new](https://github.com/new) (e.g. `amenta-website`).
-2. In this folder, run:
-
-```powershell
-git init
-git add .
-git commit -m "Initial commit: Amenta website"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/amenta-website.git
-git push -u origin main
-```
+Repository: [github.com/Natikeypad/Amenta-website](https://github.com/Natikeypad/Amenta-website)
 
 ### 2. Deploy on Render (recommended)
 
